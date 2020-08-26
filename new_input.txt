@@ -1,0 +1,5 @@
+ls -a -r -s
+sleep 1
+invalid name
+./new_iobound -seconds 20
+./new_cpubound -seconds 20
